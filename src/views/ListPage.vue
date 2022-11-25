@@ -144,7 +144,6 @@ export default {
 }
 
 @media (max-width: 1024px) {
-
   .footer-position {
     top: 87vh;
   }
